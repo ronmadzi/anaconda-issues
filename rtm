@@ -1,0 +1,9 @@
+ GUY I AM NEW TO PROGRAMMING AND HAVING A LOT OF ISSUES COULD YOU PLEASE HELP ME?
+ 
+ (C:\ProgramData\Anaconda3) C:\Users\madzi>conda install calliope
+Fetching package metadata .............
+
+PackageNotFoundError: Package missing in current win-64 channels:
+  - calliope
+  
+  i KEEP GETTING THAT ERROR ABOVE WHAT DOES THAT MEAN?  HOW CAN I RESOLVE IT ?
