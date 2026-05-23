@@ -10,3 +10,8 @@ package, please use the
 [conda issue tracker](https://github.com/conda/conda/issues).
 
 To download Anaconda, go to http://continuum.io/downloads.
+
+## Internal Working Docs
+
+- [BG Handover — 2026-05-23](./Bg%20handover%202026-05-23.md)
+- [BG Batana Upgrade Runbook v0.5.0](./Bg%20batana%20upgrade%20runbook%20v0.5.0.md)
